@@ -2,7 +2,7 @@
 **By using   (Apricot 2)  you agree and accept the following terms of service.** 
   
  1. [discord.com/terms](https://discord.com/terms) 
- 2. Read and agreed to our [privacy policy](enter your github Readme url in brackets() )
+ 2. Read and agreed to our [privacy policy](enter your github Readme url in brackets(
   
  # Prohibited Activities 
   
